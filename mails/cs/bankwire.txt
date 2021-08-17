@@ -1,0 +1,16 @@
+Dobrý den {firstname} {lastname},
+
+Vaše objednávka #{id_order} byla úspěšně zaznamenánaa bude zaslána ihned po obdržení Vaší platby.
+Všimněte si prosím, že jste zvolili platbu bankovním převodem. Částku zašlete na účet:
+
+{bankwire_owner}
+
+{bankwire_details}
+
+Částka k úhradě je {total_paid}
+
+
+Děkujeme, že nakupujete v {shop_name}.
+
+
+{shop_url}

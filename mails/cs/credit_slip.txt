@@ -1,0 +1,10 @@
+Dobrý den {firstname} {lastname},
+
+Právě jste získal Kreditní kupónu z Vaší objednávky číslo #{id_order}.
+
+Kreditní kupón si můžete prohléhnout v sekci Kreditní kupóny. Fakturu lze stáhnout v sekci "Moje objednávky" po kliknutí na odkaz "Můj účet" v našem internetovém obchodě.
+
+
+Děkujeme, že využíváte služeb {shop_name}.
+
+{shop_name} - {shop_url}

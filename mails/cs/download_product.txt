@@ -1,0 +1,10 @@
+{firstname} {lastname}, děkuje Vám za Vaší objednávku {shop_name}!
+
+Máte připraven(o) {nbProducts} produkt(ů) ke stažení.
+
+To je přímý odkaz na Váš produkt:
+{virtualProducts}
+
+
+
+{shop_url}

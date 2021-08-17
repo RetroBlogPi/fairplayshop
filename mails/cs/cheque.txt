@@ -1,0 +1,20 @@
+Dobrý den {firstname} {lastname},
+
+Vaše objednávka byla úspěšně zaznamenána. Po obdržení platby bude neprodleně vyřízena.
+
+Všimněte si prosím, že byla zvolena platba šekem. Zašlete prosím svůj šek: 
+
+- an amout of {total_paid}
+
+- to the order of {cheque_name}
+
+- at {cheque_address}
+
+
+
+Děkujeme, že využíváte služeb {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url}

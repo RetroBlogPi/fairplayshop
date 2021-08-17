@@ -1,0 +1,11 @@
+Dobrý den {name},
+
+{customer} vám doporučuje produkt, ktorý by Vás mohl zajímat.
+
+{product}: {product_link}
+
+
+{shop_name} - {shop_url}
+
+------------------
+{shop_url}

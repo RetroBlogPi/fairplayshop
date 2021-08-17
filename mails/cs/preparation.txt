@@ -1,0 +1,12 @@
+	Dobrý den {firstname} {lastname},
+		
+	Vaše objednávka #{id_order} status
+
+	Připravujeme vaší objednávku.
+
+	
+	{shop_name} - {shop_url}
+
+
+
+	{shop_url}

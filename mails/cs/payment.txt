@@ -1,0 +1,12 @@
+	Dobrý den {firstname} {lastname},
+		
+	Vaše objednávka #{id_order} status
+	
+	Platba za Vaši objednávku proběhla úspěšně.
+
+
+	{shop_name} - {shop_url}
+
+	Děkujeme, že využíváte služeb {shop_name}.
+
+	{shop_url}

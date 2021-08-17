@@ -1,0 +1,15 @@
+Dobrý den {firstname} {lastname},
+
+Vaše objednávka byla právě odeslána.
+
+{followup}
+
+
+
+Děkujeme, že využíváte služby {shop_name}!
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url}

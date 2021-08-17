@@ -1,0 +1,10 @@
+	Dobrý den {firstname} {lastname},
+		
+	Vaše platba byla vrácena. Je nám líto, že jsme nemohli uspokojit Vaše potřeby. Děkujeme za pochopení.
+
+
+	{shop_name} - {shop_url}
+
+
+
+	{shop_url}

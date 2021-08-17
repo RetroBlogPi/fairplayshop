@@ -1,0 +1,6 @@
+Dobrý den,
+
+děkujeme, že jste se přihlásil k odběru novinek z našeho internetového obchodu.
+
+------------------
+{shop_url}

@@ -1,0 +1,3 @@
+Toto byl Váš první nákup v našem internetovém obchodě. Vygenerovali jsme Vám heslo, které můžete použít při přihlášení do svého účtu. Ve svém zákazníckém účtu můžete sledovat například historii svých objednávek.
+
+Vaše heslo je: {mail_passwd}

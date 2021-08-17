@@ -1,0 +1,9 @@
+Dobrý den,
+
+{firstname} {lastname} by Vám rád(a) odporučil(a) svůj seznam přání "{wishlist}" :
+
+{message}
+
+
+------------------
+{shop_url}

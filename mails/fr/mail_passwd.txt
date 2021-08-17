@@ -1,0 +1,3 @@
+This was your first purchase in our shop. We have automatically generated password for future shopping with us or viewing your order history if you wish.
+
+Your password is: {mail_passwd}

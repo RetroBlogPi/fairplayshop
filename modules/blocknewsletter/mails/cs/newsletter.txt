@@ -1,0 +1,9 @@
+Newsletter elektronického obchodu {shop_name}
+
+Text zprávy
+
+{message}
+
+
+------------------
+{shop_url}

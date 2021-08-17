@@ -1,0 +1,12 @@
+Dobrý den {firstname} {lastname},
+
+Zrušení objednávky #{id_order} :
+
+Vaše objednávka byla zrušena .
+
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url}

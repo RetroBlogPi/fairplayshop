@@ -1,0 +1,14 @@
+Dobrý den {firstname} {lastname},
+
+Právě Vám byl vytvořen slevový kupón díky objednávce číslo #{id_order}.
+
+Zde je kód Vaší slevy: {voucher_num}, s částkou {voucher_amount}.
+
+Kód můžete uplatnit při Vašem příštím nákupu.
+
+Děkujeme, že vužíváte služeb {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} 

@@ -1,0 +1,12 @@
+	Dobrý den {firstname} {lastname},
+		
+	Vaše objednávka #{id_order} status
+	
+Bohužel jedna nebo více položek z vaši objednávky #{id_order} momentálně není skladem. To může způsobit zpoždění dodání. Přijměte naší omluvu, budeme se snažit co nejdříve problem vyřešit.
+
+		
+	{shop_name} - {shop_url}
+
+
+
+	{shop_url}

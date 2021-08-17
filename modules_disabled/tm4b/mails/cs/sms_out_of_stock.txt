@@ -1,0 +1,5 @@
+{shop_name}
+Tento produkt se brzy vyproda:
+Ref: {product_ref}
+ID: {product_id}
+Mnoz.: {qty}

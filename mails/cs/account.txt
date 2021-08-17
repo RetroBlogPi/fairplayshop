@@ -1,0 +1,19 @@
+Dobrý den {firstname} {lastname},
+
+Děkujeme, že jste si vytvořil účet v našem e-shopu {shop_name}.
+
+Přihlašovací údaje :
+
+E-mailová adresa: {email}
+Heslo: {passwd}
+
+Nyní můžete objednávat na našich webových stránkách: {shop_url}
+
+Doporučení:
+
+Přihlašovací údaje si bezpečně uložte.
+Nikomu je nepředávejte.
+Jestliže se domníváte, že Váš účet používá někdo jiný, bezodkladně nás kontaktujte.
+
+
+{shop_url}

@@ -1,0 +1,13 @@
+Dobrý den {firstname} {lastname},
+
+Nastal problém s platbou za Vaší objednávku #{id_order}. Prosím, kontaktujte nás ihned jakmile to bude možné.
+
+Vaše objednávka nebude zaslána do doby, než se problém vyřeší.
+
+
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url}

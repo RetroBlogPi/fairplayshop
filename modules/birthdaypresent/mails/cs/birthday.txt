@@ -1,0 +1,10 @@
+Dobrý den {firstname} {lastname},
+
+{shop_name} vám chce popřát vše nejlepší k narozeninám a připravil pro Vás maly dárek.
+Připravili jsme pro Vás malé překvapení... Přihlaste se prosím do Vašeho zákaznického účtu v našem obchodě a prevezměte si kupón se slevou.
+
+Děkujeme.
+
+
+------------------
+{shop_url}

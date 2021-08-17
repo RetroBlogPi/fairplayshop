@@ -1,0 +1,9 @@
+Dobrý den,
+
+v souvislosti s odběrem novinek z našeho e-shopu pomocí Newsletteru, bychom vám rádi nabídli zajímavou slevu ve formě kupónu: {discount}
+
+{shop_name} - {shop_url}
+
+
+------------------
+{shop_url}

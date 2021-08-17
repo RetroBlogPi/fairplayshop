@@ -1,0 +1,12 @@
+Dobrý den,
+
+Skladové zásoby produktu "{product}" se snižují.
+
+Zdá sa, že {last_qty} byl prekročený objem skladových zásob.
+Aktuální pocet kusů na sklade : {qty}
+
+Doporučujeme doplnit skladové zásoby a v administráci aktualizovat dostupné množství daného produktu.
+
+
+------------------
+{shop_url}

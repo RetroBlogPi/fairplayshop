@@ -1,0 +1,15 @@
+Dobrý den {firstname} {lastname},
+
+Obdržel jste zprávu od jiného zákazníka z e-shopu: {shop_name}
+
+Detaily:
+
+E-mailová adresa: {email}
+
+Text zprávy:
+
+{message}
+
+
+
+{shop_url}
