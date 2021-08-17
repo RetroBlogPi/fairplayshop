@@ -17,7 +17,7 @@ define('_PS_VERSION_', '');*/
 define('__PS_BASE_URI__', '/');
 define('_THEME_NAME_', 'fairplay');
 define('_DB_NAME_', 'fairplayShopDe');
-define('_DB_SERVER_', 'mysql57.r1.websupport.cz');
+define('_DB_SERVER_', 'mysql57.r1.websupport.cz:3311');
 define('_DB_USER_', '8uecqqoi');
 define('_DB_PREFIX_', 'ps_');
 define('_DB_PASSWD_', 'Tt4Xh\vm~r');
