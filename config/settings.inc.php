@@ -13,6 +13,19 @@ define('_COOKIE_KEY_', 'KGDNzZ9EMRIxTozLc1HNz5Gh5MV7UVhcpTnKZLNvBWfQRW7CA5gxpuIH
 define('_COOKIE_IV_', 'C7ELX7af');
 define('_PS_VERSION_', '');
 
+// fairplayshop.jw.cz
+define('__PS_BASE_URI__', '/');
+define('_THEME_NAME_', 'fairplay');
+define('_DB_NAME_', 'fairplayShopDe');
+define('_DB_SERVER_', '172.17.0.1');
+define('_DB_USER_', '8uecqqoi');
+define('_DB_PREFIX_', 'ps_');
+define('_DB_PASSWD_', 'Tt4Xh\vm~r');
+define('_DB_TYPE_', 'MySQL');
+define('_COOKIE_KEY_', 'KGDNzZ9EMRIxTozLc1HNz5Gh5MV7UVhcpTnKZLNvBWfQRW7CA5gxpuIH');
+define('_COOKIE_IV_', 'C7ELX7af');
+define('_PS_VERSION_', '');
+
 // Ebola
 /*define('__PS_BASE_URI__', '/');
 define('_THEME_NAME_', 'fairplay');
