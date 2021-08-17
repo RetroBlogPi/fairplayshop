@@ -1,7 +1,7 @@
 <?php
 
 // Localhost
-define('__PS_BASE_URI__', '/');
+/*define('__PS_BASE_URI__', '/');
 define('_THEME_NAME_', 'fairplay');
 define('_DB_NAME_', 'fairplayshop');
 define('_DB_SERVER_', 'localhost');
@@ -11,7 +11,7 @@ define('_DB_PASSWD_', '9#wB$7ppGgjC4g');
 define('_DB_TYPE_', 'MySQL');
 define('_COOKIE_KEY_', 'KGDNzZ9EMRIxTozLc1HNz5Gh5MV7UVhcpTnKZLNvBWfQRW7CA5gxpuIH');
 define('_COOKIE_IV_', 'C7ELX7af');
-define('_PS_VERSION_', '');
+define('_PS_VERSION_', '');*/
 
 // fairplayshop.jw.cz
 define('__PS_BASE_URI__', '/');
